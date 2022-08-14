@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dannydiep13!
 - 👀 I’m interested in Computer Science!
-- 🌱 I’m currently learning how to code in C++ and more languages in the future!
+- 🌱 I’m currently learning how to code in C++ and more languages in the future! For now, I am just practicing on coding for fun and may post a few random projects created by me here.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
